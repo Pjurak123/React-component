@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Pjurak123/component.git/static/css/main.e210cb80.css",
-    "main.js": "/Pjurak123/component.git/static/js/main.7f0f5870.js",
-    "static/media/image-equilibrium.jpg": "/Pjurak123/component.git/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
-    "index.html": "/Pjurak123/component.git/index.html",
-    "static/media/icon-view.svg": "/Pjurak123/component.git/static/media/icon-view.cc5602ab4376afb262218a3e38e314be.svg",
-    "static/media/icon-clock.svg": "/Pjurak123/component.git/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
-    "static/media/icon-ethereum.svg": "/Pjurak123/component.git/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
-    "main.e210cb80.css.map": "/Pjurak123/component.git/static/css/main.e210cb80.css.map",
-    "main.7f0f5870.js.map": "/Pjurak123/component.git/static/js/main.7f0f5870.js.map"
+    "main.css": "/React-component/static/css/main.7293080b.css",
+    "main.js": "/React-component/static/js/main.ac9c7cf6.js",
+    "static/media/image-equilibrium.jpg": "/React-component/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/React-component/index.html",
+    "static/media/icon-view.svg": "/React-component/static/media/icon-view.cc5602ab4376afb262218a3e38e314be.svg",
+    "static/media/icon-clock.svg": "/React-component/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/React-component/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.7293080b.css.map": "/React-component/static/css/main.7293080b.css.map",
+    "main.ac9c7cf6.js.map": "/React-component/static/js/main.ac9c7cf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e210cb80.css",
-    "static/js/main.7f0f5870.js"
+    "static/css/main.7293080b.css",
+    "static/js/main.ac9c7cf6.js"
   ]
 }
